@@ -1,22 +1,10 @@
 var students = [
-  {name: 'Alfred'},
-  {name: 'Angel'},
-  {name: 'Asma'},
-  {name: 'Aswad'},
-  {name: 'Chris Carpio'},
-  {name: 'Chris Gomez'},
-  {name: 'David'},
-  {name: 'Edgar'},
-  {name: 'Eyerin'},
-  {name: 'Ian'},
-  {name: 'Jereny'},
-  {name: 'Joshua'},
-  {name: 'Mac'},
-  {name: 'Meylan'},
-  {name: 'Nestasia'},
-  {name: 'Randy'},
-  {name: 'Rashamel'},
-  {name: 'Sidney'}
+  { name: "1" },
+  { name: "2" },
+  { name: "3" },
+  { name: "4" },
+  { name: "5" },
+  { name: "6" }
 ];
 
 var shuffle = function (o) {
